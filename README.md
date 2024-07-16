@@ -1,5 +1,5 @@
 ## Description
-Analyses for fast and slow tracking data. It includes a suite of R scripts designed for various analytical purposes, such as basic track analysis, multi-parameter analysis, and spatiotemporal mapping. The project is currently in development, and detailed documentation is underway.
+Analyses for fast and slow tracking data. It includes a suite of R scripts designed for various analytical purposes, such as basic track analysis, multi-parameter analysis, residence time fitting, and spatiotemporal mapping. The project is currently in development, and detailed documentation is underway.
 
 ## Contents
 
